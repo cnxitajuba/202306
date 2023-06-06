@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/cnxitajuba/202306/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cnxitajuba/202306/actions/workflows/pages/pages-build-deployment)
